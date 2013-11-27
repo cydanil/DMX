@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  Tue 26 Nov 2013 11:50:21 GMT
+# EESchema Netlist Version 1.1 created  Wed 27 Nov 2013 16:09:54 GMT
 (
  ( /528E9CFC C1 C1 100uF
   ( 1 N-000009 )
@@ -72,7 +72,7 @@
   ( 39 N-000004 )
   ( 40 N-000071 )
  )
- ( /528E9CE6 JACK_ALIM J1 JACK_2P
+ ( /528E9CE6 PIN_ARRAY_2X1 J1 JACK_2P
   ( 1 N-000008 )
   ( 2 ? )
   ( 3 N-000061 )
@@ -137,7 +137,7 @@
   ( 1 N-000070 )
   ( 2 GND )
  )
- ( /528F9A4E bornier4 P6 GPIO
+ ( /528F9A4E PIN_ARRAY_4x1 P6 GPIO
   ( 1 N-000016 )
   ( 2 N-000033 )
   ( 3 N-000015 )

@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Tue 26 Nov 2013 11:50:21 GMT
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Wed 27 Nov 2013 16:09:54 GMT
 
 BeginCmp
 TimeStamp = /528E9CFC;
@@ -60,7 +60,7 @@ BeginCmp
 TimeStamp = /528E9CE6;
 Reference = J1;
 ValeurCmp = JACK_2P;
-IdModule  = JACK_ALIM;
+IdModule  = PIN_ARRAY_2X1;
 EndCmp
 
 BeginCmp
@@ -116,7 +116,7 @@ BeginCmp
 TimeStamp = /528F9A4E;
 Reference = P6;
 ValeurCmp = GPIO;
-IdModule  = bornier4;
+IdModule  = PIN_ARRAY_4x1;
 EndCmp
 
 BeginCmp
