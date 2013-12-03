@@ -1,4 +1,4 @@
-update=Wed 27 Nov 2013 15:51:13 GMT
+update=Tue 03 Dec 2013 14:32:43 GMT
 last_client=cvpcb
 [pcbnew]
 version=1
@@ -32,6 +32,7 @@ LibName11=valves
 LibName12=DMX/q5-dot32
 LibName13=/home/cyril/Downloads/dips-s
 LibName14=ATMEGA8515
+LibName15=DCDC-ACDC-Converter_RevC_20Jul2012
 LibDir=../../EG3576
 [cvpcb]
 version=1
