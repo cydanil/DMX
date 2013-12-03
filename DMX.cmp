@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Tue 03 Dec 2013 15:45:11 GMT
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Tue 03 Dec 2013 17:06:12 GMT
 
 BeginCmp
 TimeStamp = /528E9CFC;
@@ -180,6 +180,20 @@ TimeStamp = /529DFBC1;
 Reference = P12;
 ValeurCmp = CONN_1;
 IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /529E06D1;
+Reference = P13;
+ValeurCmp = DIL20;
+IdModule  = DIP-20__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /529E06E4;
+Reference = P14;
+ValeurCmp = CONN_20;
+IdModule  = DIP-20__300_ELL;
 EndCmp
 
 BeginCmp
