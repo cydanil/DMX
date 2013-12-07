@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Thu 05 Dec 2013 22:03:29 GMT
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Sat 07 Dec 2013 00:41:48 GMT
 
 BeginCmp
 TimeStamp = /528E9CFC;
@@ -26,6 +26,13 @@ TimeStamp = /528E9D01;
 Reference = C4;
 ValeurCmp = 10nF;
 IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A21173;
+Reference = C5;
+ValeurCmp = 100uF;
+IdModule  = C1.5V8V;
 EndCmp
 
 BeginCmp
@@ -190,10 +197,17 @@ IdModule  = DIP-20__300_ELL;
 EndCmp
 
 BeginCmp
-TimeStamp = /529E06E4;
+TimeStamp = /52A21712;
 Reference = P14;
-ValeurCmp = CONN_20;
-IdModule  = DIP-20__300_ELL;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A2171A;
+Reference = P15;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
 EndCmp
 
 BeginCmp
@@ -284,6 +298,27 @@ BeginCmp
 TimeStamp = /529DF999;
 Reference = R13;
 ValeurCmp = 220;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A26057;
+Reference = R14;
+ValeurCmp = 562;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A25FEF;
+Reference = R15;
+ValeurCmp = 133;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A2604F;
+Reference = R16;
+ValeurCmp = 562;
 IdModule  = R1;
 EndCmp
 
